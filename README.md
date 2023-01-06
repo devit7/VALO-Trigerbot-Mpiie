@@ -1,4 +1,4 @@
-# VALO-AHK-Trigerbot-Mpiie
+# VALO-Trigerbot-Mpiie
 
 THIS IS MY SELF CODE TRIGGERBOT 
 
